@@ -6,7 +6,7 @@
 
 # Задания:
 ## [Тема 1(задание 1.1)](https://github.com/alekseypetrow/-1-1.1-/tree/master)
-## [Тема 2(вариативная часть)](https://github.com/alekseypetrow/-1-/blob/master/README.md)
+## [Тема 1(вариативная часть)](https://github.com/alekseypetrow/-1-/blob/master/README.md)
 
 
 ## Тема 1(задание 1.1)
