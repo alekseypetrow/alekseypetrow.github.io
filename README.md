@@ -8,7 +8,7 @@
 ## [Тема 1(задание 1.1)](https://github.com/alekseypetrow/-1-1.1-/tree/master)
 ## [Тема 1(вариативная часть)](https://github.com/alekseypetrow/-1-/blob/master/README.md)
 ## [Тема 3(задание 3.1)](https://github.com/alekseypetrow/-3-3.1-/blob/master/README.md)
-## [Тема 7(задание 7.1)]()
+## [Тема 7(задание 7.1)](https://github.com/alekseypetrow/-7-7.1-/blob/master/README.md)
 ## [Тема 8(вариативная часть)](https://github.com/alekseypetrow/-8-/blob/master/README.md)
 ## [Тема 9(вариативная часть)](https://github.com/alekseypetrow/-9-/blob/master/README.md)
 ## [Тема 10(вариативная часть)](https://github.com/alekseypetrow/-10-/blob/master/README.md)
@@ -515,3 +515,30 @@
 - [Khanacademy](https://www.khanacademy.org/) – бесплатные видео-курсы по различным предметам
 - [Spongelab](https://www.spongelab.com/) – платформа для персонализированного научного образования
 - [Foldit](https://fold.it/portal/) – решение научных задач как паззлов
+
+## Тема 7(задание 7.1)
+
+### **Информационные системы РГПУ им. А.И.Герцена:**
+
+- [система дистанционного обучения](https://moodle.herzen.spb.ru)
+- [система расписания и личный кабинет студента](https://guide.herzen.spb.ru)  
+- [образовательный атлас](https://atlas.herzen.spb.ru) 
+- [система портфолио]( http://portfolio.herzen.spb.ru/)
+- система корпоративных сайтов (например, кафедры ИТиЭО [ict.herzen.spb.ru](https://ict.herzen.spb.ru/))
+- [сайт дополнительных образовательных программ](https://de.herzen.edu.ru/spisok/program/detail.php?ID=4023)
+- [отдел по планированию карьерных траекторий](https://job.herzen.spb.ru)
+- [группа в ВК](https://vk.com/uniherzen)
+
+
+
+### Информационные ситстемы школы №239
+
+- [группа в ВК](https://vk.com/club45)
+-  [239's Journal](https://239.livejournal.com)  - форум в формате журнала, в котором выкладывают исторические моменты, связанные со сшколой
+- [IT Школа Samsung](https://www.samsung.com/ru/itschool/) -  рограмма дополнительного образования по основам IT и программирования. Она создана компанией Samsung и реализуется при поддержке Министерства образования и науки РФ с целью обучить 5 000 школьников в более чем 20 городах России в течение 5 лет. 
+
+
+
+### Вывод:
+
+Проведя анализ информационных систем РГПУ им. А.И. Герцена и школы №239 я понял, что та информация, которая представлена в вузе на разных сайтах, в школе располагается на одном сайте, за исключением форума и IT Школы Samsung.  Также в РГПУ им А.И. Герцена больший спектр информационных систем, представляющих интерес для студентов.
