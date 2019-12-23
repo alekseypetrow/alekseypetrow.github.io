@@ -19,6 +19,7 @@
 ## [Тема 6(задание 6.1)](https://github.com/alekseypetrow/-6-6.1-/blob/master/README.md)
 ## [Тема 7(задание 7.1)](https://github.com/alekseypetrow/-7-7.1-/blob/master/README.md)
 ## [Тема 8(задание 8.1)](https://github.com/alekseypetrow/-8-8.1-/blob/master/README.md)
+## [Тема 8(задание 8.2](https://github.com/alekseypetrow/-8-8.2-/blob/master/README.md)
 ## [Тема 8(вариативная часть)](https://github.com/alekseypetrow/-8-/blob/master/README.md)
 ## [Тема 9(задание 9.1)](https://github.com/alekseypetrow/-9-9.1-/blob/master/README.md)
 ## [Тема 9(задание 9.2)](https://github.com/alekseypetrow/-9-9.2-/blob/master/README.md)
@@ -721,6 +722,8 @@
 
 **Недостатки:** Информация очень сжата. 
 
+## Тема 8(задание8.2)
+[Тест](https://zhukov.moodlecloud.com/mod/quiz/view.php?id=33)
 
 ## Тема 8(вариативная часть)
 
